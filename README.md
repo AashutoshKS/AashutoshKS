@@ -37,13 +37,13 @@
 
 - 💻 **Technical Skills:**  
   - Languages: C/C++, SQL, HTML, CSS  
-  - Frameworks: JavaScript, React  
-  - Databases: MySQL, MongoDB  
+  - Frameworks: JavaScript, React, Tailwind CSS 
+  - Databases: MySQL 
   - Tools: Git, VS Code, GitHub
 
 - 🏆 **Competitive Programming:**  
   - **LeetCode:** 900+ problems solved, Top 15% global rank, Max rating: 1675  
-  - **CodeChef:** 3★ rating, Global Rank 260 in Starters 171, Rating: 1650+
+  - **CodeChef:** 3★ rating, Global Rank 260 in Starters 171, Max Rating: 1698
 
 ---
 
@@ -71,7 +71,7 @@ A full-stack web application connecting food donors with recipients to reduce fo
   - *Digital Start-up Hack-a-fest (Oct 2023):* Top 10 team; developed a platform to connect local sports communities.  
   - *Smart India Hackathon (April 2023):* Created a tech-driven travel planner praised for real-world usability and user-focused design.
 
-- **Certification:**  
+- **Certification:**
   - Completed 3-month DSA Bootcamp by Code Tatva (Sep 2024)
 
 ---
