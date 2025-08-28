@@ -42,8 +42,8 @@
   - Tools: Git, VS Code, GitHub
 
 - 🏆 **Competitive Programming:**  
-  - **LeetCode:** 900+ problems solved, Top 15% global rank, Max rating: 1675  
-  - **CodeChef:** 3★ rating, Global Rank 260 in Starters 171, Max Rating: 1698
+  - **LeetCode:** 1000+ problems solved, Top 10% global rank, Max rating: 1750
+  - **CodeChef:** 3★ rating, Global Rank 260 in Starters 171, Max Rating: 1750
 
 ---
 
