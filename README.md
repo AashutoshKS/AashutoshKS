@@ -33,17 +33,17 @@
 
 - 🎓 **B.Tech in Computer Science and Engineering (AI/ML)**  
   *G. L. Bajaj Institute of Technology and Management (Nov 2022 – June 2026)*  
-  CGPA: 8.49/10
+  CGPA: 8.43/10
 
 - 💻 **Technical Skills:**  
-  - Languages: C/C++, SQL, HTML, CSS  
-  - Frameworks: JavaScript, React, Tailwind CSS 
-  - Databases: MySQL 
+  - Languages: C/C++, Python, SQL, HTML, CSS, JavaScript  
+  - Frameworks: JavaScript, ReactJS, nextJS, NodeJS, Tailwind CSS, typescript
+  - Databases: MySQL, mongoDB
   - Tools: Git, VS Code, GitHub
 
 - 🏆 **Competitive Programming:**  
-  - **LeetCode:** 1000+ problems solved, Top 10% global rank, Max rating: 1750
-  - **CodeChef:** 3★ rating, Global Rank 260 in Starters 171, Max Rating: 1750
+  - **LeetCode:** 1200+ problems solved, Top 2% global rank, Max rating: 2051
+  - **CodeChef:** 4★ rating, Global Rank 260 in Starters 171, Max Rating: 1850
 
 ---
 
